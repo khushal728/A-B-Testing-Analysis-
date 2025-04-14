@@ -46,9 +46,9 @@ P-value: 0.19
 
 Conclusion: Failed to reject the null hypothesis. No significant difference in conversion rates
 
-## Total Ads Viewed by Most Ads Hour and Test Group
+### Total Ads Viewed by Most Ads Hour and Test Group
 
-![charts](https://github.com/khushal728/A-B-Testing-Analysis-/issues/1#issue-2992830563)
+![Charts](https://github.com/khushal728/A-B-Testing-Analysis-/issues/1#issue-2992830563)
 
 ## 📈 Tools Used
 

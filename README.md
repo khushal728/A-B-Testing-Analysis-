@@ -48,7 +48,7 @@ Conclusion: Failed to reject the null hypothesis. No significant difference in c
 
 ## Visualisation
 
-(https://github.com/khushal728/A-B-Testing-Analysis-/issues/1#issue-2992830563)
+![charts](https://github.com/khushal728/A-B-Testing-Analysis-/issues/1#issue-2992830563)
 
 ## 📈 Tools Used
 

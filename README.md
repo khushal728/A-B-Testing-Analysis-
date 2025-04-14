@@ -1,4 +1,4 @@
-# A-B-Testing-Analysis-(Digital Marketib)
+# A-B-Testing-Analysis-(Digital Marketing)
 
 ## 📌 Project Overview
 
